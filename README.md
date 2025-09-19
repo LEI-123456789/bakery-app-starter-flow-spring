@@ -1,7 +1,11 @@
-# ⚠️ This starter is not recommended ⚠️
+# GRUPO "Os Programadores Implacáveis"
 
-**This starter is not recommended for new Vaadin Flow applications. Instead, visit [start.vaadin.com](https://start.vaadin.com/) to configure and download a Vaadin project that reflects the current best practices.**
-
+| Curso  | Número | Nome           |
+|--------|--------|----------------|
+| LEI-PL | 991234 | Alice Santos   |
+| LEI-PL | 992345 | Carlos Botelho |
+| LEI-PL | 993456 | Luis Aguiar    |
+| LEI-PL | 994567 | Maria Custódio |
 
 # Running the Project in Development Mode
 
